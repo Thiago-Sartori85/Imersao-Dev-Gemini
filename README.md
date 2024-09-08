@@ -1,6 +1,6 @@
 # Cave Nerd: Sua Toca Pessoal de Animes! - Fazendo o deply com uso do Gemini a AI do Google
 
-#Deploy# https://imersao-dev-gemini-mu.vercel.app/
+#Deploy** https://imersao-dev-gemini-mu.vercel.app/
 
 **O que é?**
 
