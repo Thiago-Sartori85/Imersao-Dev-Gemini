@@ -1,4 +1,4 @@
-# Cave Nerd: Sua Toca Pessoal de Animes!
+# Cave Nerd: Sua Toca Pessoal de Animes! - Fazendo o deply com uso do Gemini a AI do Google
 
 **O que é?**
 
