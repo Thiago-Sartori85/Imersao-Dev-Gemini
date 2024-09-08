@@ -1,5 +1,7 @@
 # Cave Nerd: Sua Toca Pessoal de Animes! - Fazendo o deply com uso do Gemini a AI do Google
 
+#Deploy# https://imersao-dev-gemini-mu.vercel.app/
+
 **O que é?**
 
 Imagina um lugar quentinho e aconchegante, cheio de seus animes favoritos. A Cave Nerd é exatamente isso! É uma aplicação web onde você pode pesquisar por seus animes preferidos e descobrir um mundo de informações sobre eles. É como ter uma biblioteca pessoal de animes, só que online e muito mais divertida!
